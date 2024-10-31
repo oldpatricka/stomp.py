@@ -1,4 +1,4 @@
-## Version 8.2.0 - Apr 2024
+## Version 8.2.0 - Oct 2024
 
  * New binary_mode param on WS connections (https://github.com/jasonrbriggs/stomp.py/pull/419)
  * Correct WSTransport.receive output (https://github.com/jasonrbriggs/stomp.py/pull/422)
